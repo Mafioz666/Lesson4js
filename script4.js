@@ -123,4 +123,4 @@ function exchange(sumUAH,currencyValues,exchangeCurrency){
     }
 }
 exchange(10000,[{currency:'USD',value:40},{currency:'EUR',value:42}],'USD')
-exchange(1000,[{currency:'USD',value:40},{currency:'EUR',value:42}],'EUR')
+exchange(10000,[{currency:'USD',value:40},{currency:'EUR',value:42}],'EUR')
